@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a startup for blood donors.
+- 🔭 I’m currently working on a project for blood donors with my friends.
 - 🖥️ I'm an undergraduate student of Biomedical Informatics at Universidade Federal do Paraná.
 - 🖥️ I have a certificate in Analysis and Systems development.
 - 🤖 I'm part of a robotic team at UFPR.
