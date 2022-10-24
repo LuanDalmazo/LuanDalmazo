@@ -5,7 +5,6 @@
 - 🖥️ I'm an undergraduate student of Biomedical Informatics at Universidade Federal do Paraná.
 - 🖥️ I have a certificate in Analysis and Systems development.
 - 🤖 I'm part of a robotic team at UFPR.
-- 🌱 I’m currently learning Python and C language.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Py" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
